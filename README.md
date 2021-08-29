@@ -1,2 +1,2 @@
-# learnPy
-to learn python
+# CreditAnalysis
+a simple project using python to analyse data
